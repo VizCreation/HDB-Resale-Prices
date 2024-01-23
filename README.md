@@ -14,10 +14,10 @@ The data used is sourced from the Singapore's Government Agency Website data.gov
 
 ## Data Transformation/Cleaning
 Data was cleaned and transformed with the Power Query Editor in Power BI and by creating new measures using DAX. Some of the applied steps include:
-"*"Combining the 3 data sets into 1 main table
-"*" Classifying the Remaining Lease period into a Range (eg. 51- 60 years, 61- 70 years etc...). For info: The remaining lease period ranges from 0 - 99 years.
-"*" Extracting only the Year from "Date of Sale"
-"*" Using DAX to create new measures and Dynamic Title based on selected Filter
+* Combining the 3 data sets into 1 main table
+* Classifying the Remaining Lease period into a Range (eg. 51- 60 years, 61- 70 years etc...). For info: The remaining lease period ranges from 0 - 99 years.
+* Extracting only the Year from "Date of Sale"
+* Using DAX to create new measures and Dynamic Title based on selected Filter
 
 ## Data Visualisation
 ![]()
