@@ -20,4 +20,4 @@ Data was cleaned and transformed with the Power Query Editor in Power BI and by 
 * Using DAX to create new measures and Dynamic Title based on selected Filter
 
 ## Data Visualisation
-![<img width="725" alt="Main Dashboard Page1" src="https://github.com/VizCreation/HDB-Resale-Prices/assets/157504708/752561fb-d845-4ff4-8e6d-f7a3674e2e14">]()
+![Main Dashboard Page1](https://github.com/VizCreation/HDB-Resale-Prices/assets/157504708/d30bebf8-e8bc-4128-ba0f-1f2fa7b1c320)
