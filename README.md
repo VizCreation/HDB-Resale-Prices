@@ -1,5 +1,7 @@
 # HDB-Resale-Prices
-HDB Resale Prices from Year 2013 to Jan 2024
+This is a self-initiated project to create a dashboard in Power BI to see the trend of housing prices over the years and across towns. 
+The data set consists of HDB Resale Prices data from Year 2013 to Jan 2024. 
+
 ## Problem Statement
 1. What is the Maximum resale price for flats sold? How much has it increased?
 2. Which flat size has more transactions and would be easier to find buyers? 
